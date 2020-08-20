@@ -1,0 +1,27 @@
+
+.text{
+    display:flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+}
+.name{
+    
+    
+    
+    font-family: 'Sriracha', cursive;
+    font-size: 700%;
+    color: #002576;
+    margin-top: 2%;
+    margin-left: 5%;
+}
+.role{
+    color:#F45478;
+    font-size: 200%;
+    font-family: 'Sriracha', cursive;
+    align-self: center;
+}
+
+.curve svg{
+align-self: flex-end;
+margin-bottom: 0%;
+}

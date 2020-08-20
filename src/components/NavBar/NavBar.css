@@ -1,0 +1,20 @@
+.clorNav {
+    background-color: rgba(0,0,0,0);
+  }
+
+.allNav{
+    color: #002576
+}
+
+.text-color{
+    color: #002576;
+}
+
+.contentNav{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+.menuIcon{
+    margin-left: 10px;
+}
