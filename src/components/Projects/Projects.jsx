@@ -207,15 +207,19 @@ const Projects = () => {
                   <i class="material-icons right">close</i>
                 </span>
                 <p>
-                  Es una PWA diseñada para la administración del flujo de
-                  clientes dentro de un restaurante de Hamburguesas. Este
-                  restaurante requiere una aplicación donde sus empleados, tanto
-                  cocineros como meseros puedan seguir paso a paso el ciclo de
-                  vida que tienen cada una de sus tareas, de una forma fácil y
-                  rápida. Lo cual les ayude con el control del restaurante, así
-                  como aumentar su productividad y minimizar sus tiempos de
-                  pedido-entrega. Este proyecto fue creado con JS, React,
-                  bootstrap y Firebase como backend
+                  Diseñada para ipad-pro
+                  </p>
+                  <p>
+                   Es una PWA diseñada para laadministración del flujo de clientes dentro de un restaurante
+                  de Hamburguesas. Este restaurante requiere una aplicación
+                  donde sus empleados, tanto cocineros como meseros puedan
+                  seguir paso a paso el ciclo de vida que tienen cada una de sus
+                  tareas, de una forma fácil y rápida. Lo cual les ayude con el
+                  control del restaurante, así como aumentar su productividad y
+                  minimizar sus tiempos de pedido-entrega. Este proyecto fue
+                  creado con JS, React, bootstrap y Firebase como backend. Para
+                  poder crear un nuevo usuario es necesario tener la contraseña
+                  del manager password= gerente.
                 </p>
               </div>
             </div>
