@@ -26,7 +26,7 @@ const InfoBar = ({ picture, gitHub, linkedIn }) => {
           {" "}
           <li>
             <a className="waves-effect sidenav-close">
-              <i className="material-icons">accessibility</i>Sobre de mí
+              <i className="material-icons">accessibility</i>Sobre mí
             </a>
           </li>
         </Link>
