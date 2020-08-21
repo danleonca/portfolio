@@ -1,28 +1,28 @@
 {
   "files": {
-    "main.css": "/miportafolio/static/css/main.5d9d98c9.chunk.css",
-    "main.js": "/miportafolio/static/js/main.fa576f47.chunk.js",
-    "main.js.map": "/miportafolio/static/js/main.fa576f47.chunk.js.map",
-    "runtime-main.js": "/miportafolio/static/js/runtime-main.cc31f301.js",
-    "runtime-main.js.map": "/miportafolio/static/js/runtime-main.cc31f301.js.map",
-    "static/js/2.f87900d3.chunk.js": "/miportafolio/static/js/2.f87900d3.chunk.js",
-    "static/js/2.f87900d3.chunk.js.map": "/miportafolio/static/js/2.f87900d3.chunk.js.map",
-    "index.html": "/miportafolio/index.html",
-    "precache-manifest.8a34bfb6360dd92a33c81de7fd59201d.js": "/miportafolio/precache-manifest.8a34bfb6360dd92a33c81de7fd59201d.js",
-    "service-worker.js": "/miportafolio/service-worker.js",
-    "static/css/main.5d9d98c9.chunk.css.map": "/miportafolio/static/css/main.5d9d98c9.chunk.css.map",
-    "static/js/2.f87900d3.chunk.js.LICENSE.txt": "/miportafolio/static/js/2.f87900d3.chunk.js.LICENSE.txt",
-    "static/media/bosqueInv.jpg": "/miportafolio/static/media/bosqueInv.2a7eca7e.jpg",
-    "static/media/burgerQ.svg": "/miportafolio/static/media/burgerQ.ee0a29dd.svg",
-    "static/media/fatverine.png": "/miportafolio/static/media/fatverine.5ed5f39e.png",
-    "static/media/mdLinks.svg": "/miportafolio/static/media/mdLinks.4514eb0c.svg",
-    "static/media/pokemon.svg": "/miportafolio/static/media/pokemon.fa02a0e0.svg",
-    "static/media/socialNet.svg": "/miportafolio/static/media/socialNet.43929d96.svg"
+    "main.css": "/portfolio/static/css/main.5d9d98c9.chunk.css",
+    "main.js": "/portfolio/static/js/main.8f409697.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.8f409697.chunk.js.map",
+    "runtime-main.js": "/portfolio/static/js/runtime-main.8e4fc19b.js",
+    "runtime-main.js.map": "/portfolio/static/js/runtime-main.8e4fc19b.js.map",
+    "static/js/2.95d47b22.chunk.js": "/portfolio/static/js/2.95d47b22.chunk.js",
+    "static/js/2.95d47b22.chunk.js.map": "/portfolio/static/js/2.95d47b22.chunk.js.map",
+    "index.html": "/portfolio/index.html",
+    "precache-manifest.d1c62c1465d6529fe07b922e4432935b.js": "/portfolio/precache-manifest.d1c62c1465d6529fe07b922e4432935b.js",
+    "service-worker.js": "/portfolio/service-worker.js",
+    "static/css/main.5d9d98c9.chunk.css.map": "/portfolio/static/css/main.5d9d98c9.chunk.css.map",
+    "static/js/2.95d47b22.chunk.js.LICENSE.txt": "/portfolio/static/js/2.95d47b22.chunk.js.LICENSE.txt",
+    "static/media/bosqueInv.jpg": "/portfolio/static/media/bosqueInv.2a7eca7e.jpg",
+    "static/media/burgerQ.svg": "/portfolio/static/media/burgerQ.ee0a29dd.svg",
+    "static/media/fatverine.png": "/portfolio/static/media/fatverine.5ed5f39e.png",
+    "static/media/mdLinks.svg": "/portfolio/static/media/mdLinks.4514eb0c.svg",
+    "static/media/pokemon.svg": "/portfolio/static/media/pokemon.fa02a0e0.svg",
+    "static/media/socialNet.svg": "/portfolio/static/media/socialNet.43929d96.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.cc31f301.js",
-    "static/js/2.f87900d3.chunk.js",
+    "static/js/runtime-main.8e4fc19b.js",
+    "static/js/2.95d47b22.chunk.js",
     "static/css/main.5d9d98c9.chunk.css",
-    "static/js/main.fa576f47.chunk.js"
+    "static/js/main.8f409697.chunk.js"
   ]
 }
