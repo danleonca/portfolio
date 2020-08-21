@@ -49,7 +49,7 @@ const About = () => {
                 </p>
                 <p>
                   Me encanta solucionar problemas a través de la ciencia y
-                  tecnología, como front end developer he descubierto que la
+                  tecnología; como front end developer he descubierto que la
                   capacidad de analisis de un problema te puede llevar a
                   resolverlo de múltiples formas, y woowww créanme que eso es
                   algo realmente extraordinario.{" "}
