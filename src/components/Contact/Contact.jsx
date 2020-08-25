@@ -66,7 +66,7 @@ const Contact = () => {
                   onChange={(e) => setMessage(e.target.value)}
                   value={message}
                 />
-                <label htmlFor="icon_prefix">Mensage</label>
+                <label htmlFor="icon_prefix">Mensaje</label>
               </div>
             </div>
             <button
